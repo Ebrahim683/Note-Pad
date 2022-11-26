@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544974425961",
+    "project_id": "note-pad-16f41",
+    "storage_bucket": "note-pad-16f41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544974425961:android:2a5c4c593b6fa2ebddb7f8",
+        "android_client_info": {
+          "package_name": "com.example.note_pad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544974425961-5jcm16dpotdp5avplcij222ivv98v3ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwuTc1rQVt5vxX5O876kockmrs3eYIfEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544974425961-5jcm16dpotdp5avplcij222ivv98v3ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
